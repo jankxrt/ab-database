@@ -20,12 +20,7 @@ dist-ssr/
 
 # Excel / Temp
 ~$*.xlsx
-*.xlsx
-# (Optional: uncomment if you want to keep data files out of git)
-# data_ab.xlsx
-# staedte.xlsx
-# data_abss.xlsx
-# Scraping_Backup.xlsx
+# We are now tracking .xlsx files as requested
 
 # Misc
 .DS_Store
