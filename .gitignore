@@ -1,0 +1,38 @@
+# Python
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints
+*.out
+*.txt
+
+# Node
+node_modules/
+dist/
+dist-ssr/
+*.local
+.env
+
+# IDEs
+.vscode/
+.idea/
+
+# Excel / Temp
+~$*.xlsx
+*.xlsx
+# (Optional: uncomment if you want to keep data files out of git)
+# data_ab.xlsx
+# staedte.xlsx
+# data_abss.xlsx
+# Scraping_Backup.xlsx
+
+# Misc
+.DS_Store
+.gemini/
+build_out.txt
+convert_out.txt
+inspect_out.txt
+verify_out.txt
+verify_match.py
+verify_match_out.txt
